@@ -1,0 +1,6 @@
+@ILP04_StoreMangement_HostAddress = http://localhost:5191
+
+GET {{ILP04_StoreMangement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
